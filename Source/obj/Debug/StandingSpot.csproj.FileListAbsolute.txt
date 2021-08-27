@@ -1,0 +1,7 @@
+/home/alib234/.local/share/Steam/steamapps/common/RimWorld/Mods/Standing Spot/Assemblies/StandingSpot.dll
+/home/alib234/.local/share/Steam/steamapps/common/RimWorld/Mods/Standing Spot/Assemblies/StandingSpot.pdb
+/home/alib234/.local/share/Steam/steamapps/common/RimWorld/Mods/Standing Spot/Source/StandingSpot/StandingSpot/StandingSpot/obj/Debug/StandingSpot.csproj.AssemblyReference.cache
+/home/alib234/.local/share/Steam/steamapps/common/RimWorld/Mods/Standing Spot/Source/StandingSpot/StandingSpot/StandingSpot/obj/Debug/StandingSpot.csproj.CoreCompileInputs.cache
+/home/alib234/.local/share/Steam/steamapps/common/RimWorld/Mods/Standing Spot/Source/StandingSpot/StandingSpot/StandingSpot/obj/Debug/StandingSpot.csproj.CopyComplete
+/home/alib234/.local/share/Steam/steamapps/common/RimWorld/Mods/Standing Spot/Source/StandingSpot/StandingSpot/StandingSpot/obj/Debug/StandingSpot.dll
+/home/alib234/.local/share/Steam/steamapps/common/RimWorld/Mods/Standing Spot/Source/StandingSpot/StandingSpot/StandingSpot/obj/Debug/StandingSpot.pdb

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<ThoughtDef>
+    	<defName>SleptStanding</defName>
+    	<durationDays>1</durationDays>
+    	<stackLimit>1</stackLimit>
+    	<nullifyingPrecepts>
+      		<li MayRequire="Ludeon.RimWorld.Ideology">RoughLiving_Welcomed</li>
+    	</nullifyingPrecepts>
+    	<stages>
+      		<li>
+        	<label>slept standing</label>
+        	<description>I had to sleep while standing, my back and everything else hurts.</description>
+        	<baseMoodEffect>-12</baseMoodEffect>
+      	</li>
+    	</stages>
+	</ThoughtDef>
+</Defs>
