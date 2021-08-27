@@ -1,3 +1,2 @@
-Figure out how to add thoughtdef
-Figure out how to shift pawns upwards
-Figure out how to make hidden hedif
+[X] Figure out how to add thoughtdef | Done via a prefix harmony patch
+[] Figure out how to make pawns stand | probably via another patch but a pass throught postfix
