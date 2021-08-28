@@ -1,2 +1,6 @@
 [X] Figure out how to add thoughtdef | Done via a prefix harmony patch
+<<<<<<< HEAD
 [] Figure out how to make pawns stand | Failed, just pretend they're standing
+=======
+[] Figure out how to make pawns stand | probably via another patch but a pass throught postfix
+>>>>>>> b460ee85fc9b64b1fd3d6a07a03650391c665ed7
