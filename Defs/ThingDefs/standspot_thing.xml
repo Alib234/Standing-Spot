@@ -6,15 +6,16 @@
 		<modExtensions>
 			<li Class="StandingSpot.StandingSpotDefModExtension"></li>
 		</modExtensions>
-		<label>Standing Spot</label>
+		<label>standing spot</label>
 		<description>A simple spot on which pawns can sleep while standing. Obviously extremely uncomfortable, pawns also don't get good sleep off of it, surgery chance also takes a dip.</description>
 		<thingClass>Building_Bed</thingClass>
 		<graphicData>
 			<texPath>Things/Building/Furniture/Bed/StandSpot</texPath>
-			<graphicClass>Graphic_Multi</graphicClass>
+			<graphicClass>Graphic_Single</graphicClass>
 			<drawSize>(1,1)</drawSize>
 		</graphicData>
 		<altitudeLayer>FloorEmplacement</altitudeLayer>
+		<rotatable>false</rotatable>
     	<statBases>
      		<WorkToBuild>0</WorkToBuild>
 			<Comfort>0</Comfort>
@@ -25,6 +26,7 @@
 		<useHitPoints>false</useHitPoints>
 		<size>(1,1)</size>
 		<passability>Standable</passability>
+		<uiIconScale>0.80</uiIconScale>
 		<drawGUIOverlay>True</drawGUIOverlay>
 		<defaultPlacingRot>South</defaultPlacingRot>
 		<building>
